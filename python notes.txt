@@ -1,0 +1,4 @@
+pip install -r requirement.txt (to install all ingredients)
+
+python environment creation
+conda create -n raghunathji12 python===3.12 -y
